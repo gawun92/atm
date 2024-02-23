@@ -174,8 +174,10 @@ response sample
 
 
 [DECLINE] response sample1 - duplicate account number
+
 ![img_2.png](img_2.png)
 
 
 [DECLINE] response sample2 - negative balance
+
 ![img_3.png](img_3.png)
