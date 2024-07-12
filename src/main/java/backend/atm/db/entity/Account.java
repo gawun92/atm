@@ -11,7 +11,6 @@ public class Account extends SuperEntity{
     @Enumerated(EnumType.STRING)
     private AccountStatus status = AccountStatus.CHECKING;
     private Integer balance = 0;
-    private String test2 = "";
 
 
 
